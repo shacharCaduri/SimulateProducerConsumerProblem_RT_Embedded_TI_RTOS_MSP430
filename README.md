@@ -27,8 +27,6 @@ a. those systems usually have small / limited memory capicity proportion to the 
 
 b. those systems usually have one main goal which it needs to accomplish and using the memory in a smart and efficient way.
 
-I have managed to do it in this manner because without managing the memory correctly the project can't work because as mentioned before this project and even greater projects in RTOS embedded needs to meet conditions of memory saving so it can work because it have limited memory, but saving memory in a more efficient way is something that can always be improved and always should be, in those kind of systems.
-
 ### **How to install**
 To install this project (INSTALLATION through Code Composer Studio) :
 
