@@ -60,4 +60,4 @@ led blink specification
 
 ![image](https://user-images.githubusercontent.com/73823590/141676963-c445dc04-cb0c-444a-9f4f-5b745271099a.png)
 
-The LEDs on the conroller should blink as described here in the photos, and the user can debug and see the behavior of the the threads in the system and thus see it is actually simulating the panama cannal as show in the conceptual abstraction in the description earlier in this document.
+The LEDs on the conroller should blink as described here in the photos, and the user can debug and see the behavior of the the threads in the system and thus see it is actually simulating the producer consumer problem as show in the conceptual abstraction in the description earlier in this document.
