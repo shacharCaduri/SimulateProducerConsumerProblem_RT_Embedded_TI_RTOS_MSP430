@@ -3,9 +3,8 @@
 ### **IMPORTANT BEFORE READING!!!**
 
 This Project has been done using the lecturer guidance and all photos here are the copyrights of this lecturer only and thus must not be used or copied in any kind of way anywere. Those photos represented here are only to make the reader here in this README file understand part of what has been done in the project and not by any means not using it or copy it in any other way except seeing it here.
-Description
 
-### **Project Description**
+### **Description**
  This project is a part one of a college project done as a part of a "Real Time Embedded Systems" course, in this course's final project we were asked to simulate the producer consumer problem while using TI RTOS kernel and the IDE: Code Composer Studio with MSP430 micro controller card while following the rules of multithreaded programming and Real Time systems with priority based scheduler and thus simulating the Prodcer Consumer Problem as described in the final project specifications. The Conceptual Abstraction / Algorithm for simulating Prodcer Consumer Problem that this project followed is as shown here:
 
 ![Conceptual Algorithm - Producer Consumer Problem](https://user-images.githubusercontent.com/73823590/141676323-18dfca25-209a-46cb-999a-5f91213b2bf8.PNG)
