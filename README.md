@@ -12,11 +12,11 @@ Description
 
 This has been done with using OS and RTOS system concepts like putting a clock to make the RTOS simulate time sharing system which are not assuming anything about the when threads will gain\lost CPU, or using locks to synchronizing objects that wants to get access to shared location using some kinds of semaphores: Resource Control Semaphores, Mutexes, and Scheduling Constraint Semaphores, defend from deadlocks and synchronization problems and Etc. see source code for more detailed understanding.
 
-## **What the application does?**
+### **What the application does?**
 
 Simulating The Producer Consumer Problem using multithreaded programming and RTOS (real time operating system) kernel and principles.
 
-## **Why I used this technologies?**
+### **Why I used this technologies?**
 
 I used TI-RTOS kernel with the IDE Code Composer because it was a college course project which was required in the course's syllabus.
 Some challenges
@@ -29,7 +29,7 @@ b. those systems usually have one main goal which it needs to accomplish and usi
 
 I have managed to do it in this manner because without managing the memory correctly the project can't work because as mentioned before this project and even greater projects in RTOS embedded needs to meet conditions of memory saving so it can work because it have limited memory, but saving memory in a more efficient way is something that can always be improved and always should be, in those kind of systems.
 
-## **How to install**
+### **How to install**
 To install this project (INSTALLATION through Code Composer Studio) :
 
 a. Download the project as an archived zip file (you can do it by clicking the green button 'Code' then 'Download ZIP').
@@ -52,7 +52,7 @@ e. After that you will be able to click on the finish button, press finish and y
 
 For any kind of issues or suggestions in the context of this installation you can contact me.
 
-## **How to use?**
+### **How to use?**
 
 This project purpose for simulation only with the MSP430F5529 Micro controller card, and you use it by running it on this micro controller card that has been specified earlier here and in the description, I suggest anyone who want to know how to run will search for a guide how to run a project on CCStudio even tough it is done by simply search the button build\rebuild and then click debug and let it run, Further more it is important to mention that because this project run on a micro controller card it also has led blink service specification in simple words it is indicators on the card that it is running on and the indicators are the leds that are turning on according to this specification:
 
