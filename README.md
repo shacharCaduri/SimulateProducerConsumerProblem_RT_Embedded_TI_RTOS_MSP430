@@ -19,7 +19,8 @@ Simulating The Producer Consumer Problem using multithreaded programming and RTO
 ### **Why I used this technologies?**
 
 I used TI-RTOS kernel with the IDE Code Composer because it was a college course project which was required in the course's syllabus.
-Some challenges
+
+### **Some challenges**
 
 One of the challenges I faced is one of the critical challenges in Real Time Embedded projects is memory management, cause all things need to be done in a manner of saving memory, timing for buisness or safety crictical systems and this is because:
 
